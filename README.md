@@ -2,7 +2,7 @@
 
 # 💻🧬Amal Gasmi
 **`Master's Student in Bioinformatics / Data Analysis`**
-**`🌱 I’m currently learning Docker, Devops, AWS `**
+**`🌱 I’m currently learning Docker, DevOps, AWS `**
 
 
 <h1 align="center">
@@ -10,7 +10,7 @@
 </h1>
 
 
-Hi  Again 👋,  I'm Amal! I'm a passionate Master's student in bioinformatics . I love working with data and using AI to solve biological problems. I'm good at programming in Python and R, and I enjoy analyzing genomic data. I'm always excited to learn new things and use bioinformatics tools to make discoveries in research..
+Hi  Again 👋,  I'm Amal! I'm a passionate Master's student in bioinformatics. I love working with data and using AI to solve biological problems. I'm good at programming in Python and R, and I enjoy analyzing genomic data. I'm always excited to learn new things and use bioinformatics tools to make discoveries in research...
 
 
 <p align="left">
@@ -47,7 +47,9 @@ Hi  Again 👋,  I'm Amal! I'm a passionate Master's student in bioinformatics .
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-#
+
+
+# 
 
 
 ### 🐍 My Contributions 🐍</h2>
