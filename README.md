@@ -51,12 +51,11 @@ Hi  Again 👋,  I'm Amal! I'm a passionate Master's student in bioinformatics. 
 
 # 
 
-
 ### 🐍 My Contributions 🐍</h2>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-  
+ # 
 
 ### 📊 Stats
 
